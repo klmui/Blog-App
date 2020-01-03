@@ -1,0 +1,13 @@
+/* All i with class of icon */
+i.icon {
+    font-size: 2em;
+}
+
+/* All things with class of container and main */
+.container.main {
+    margin-top: 7.0em;
+}
+
+#delete {
+    display: inline;
+}
